@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "currencyCode": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

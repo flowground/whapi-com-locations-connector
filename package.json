@@ -1,0 +1,15 @@
+{
+    "name": "whapi-com-locations-connector",
+    "version": "2.0.0",
+    "description": "The Locations API is a collection of methods that support geographical information. The first method is an address lookup service for UK addresses. This service can be used to provide a new customer with a list of possible addresses from which they can populate a registration form.",
+    "main": "component.json",
+    "dependencies": {
+        "elasticio-node": "0.0.9",
+        "elasticio-sailor-nodejs": "^2.2.1",
+        "swagger-client": "^3.8.22"
+    },
+    "author": {
+        "name": "Deutsche Telekom AG"
+    },
+    "license": "Apache-2.0"
+}

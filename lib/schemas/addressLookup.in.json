@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "properties": {
+        "houseNum": {
+            "required": true,
+            "type": "string"
+        },
+        "postCode": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}
